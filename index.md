@@ -4,3 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+
+### Downloads
+- [Managing API Evolution in Microservice Architecture](resources/ICSE_DS_Poster_Lercher_2024.pdf) - ICSE 2024 Doctoral Symposium Poster
+- [AutoGuard: Reporting Breaking Changes of REST APIs from Java Spring Boot Source Code](resources/AutoGuard_Lercher_preprint.pdf) - Preprint
+
