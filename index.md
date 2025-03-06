@@ -6,7 +6,13 @@ layout: home
 ---
 
 
-__Downloads:__
-- [Managing API Evolution in Microservice Architecture](resources/ICSE_DS_Poster_Lercher_2024.pdf) - ICSE 2024 Doctoral Symposium Poster
-- [AutoGuard: Reporting Breaking Changes of REST APIs from Java Spring Boot Source Code](resources/AutoGuard_Lercher_preprint.pdf) - Preprint
+__Direct Downloads__
+
+Managing API Evolution in Microservice Architecture
+- [ICSE 2024 Poster](resources/ICSE_DS_Poster_Lercher_2024.pdf)
+<br/><br/>
+
+AutoGuard: Reporting Breaking Changes of REST APIs from Java Spring Boot Source Code
+- [Preprint](resources/AutoGuard_Paper_preprint_Lercher.pdf)
+- [SANER 2025 Presentation](resources/AutoGuard_Presentation_Lercher.pdf)
 
